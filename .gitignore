@@ -19,6 +19,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+check_db.py
 
 # Streamlit
 .streamlit/secrets.toml
