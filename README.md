@@ -35,8 +35,7 @@ The dashboard expects an Excel file named `output3.xlsx` with the following colu
 
 ## Screenshots
 
-(Add screenshots of your dashboard here)
+
 
 ## License
 
-(Add your preferred license)
