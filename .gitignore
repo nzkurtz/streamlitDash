@@ -44,6 +44,4 @@ venv.bak/
 Thumbs.db
 
 # Project specific
-*.xlsx
-*.csv
 !requirements.txt
